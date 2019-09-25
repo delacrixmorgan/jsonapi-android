@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "type": "lesson",
+    "title": "Project Management Foundations",
+    "link": "https://www.linkedin.com/learning/project-management-foundations-4"
+  },
+  {
+    "id": "2",
+    "type": "video",
+    "title": "Communication for Product Managers",
+    "link": "https://www.linkedin.com/learning/primavera-p6-essential-training"
+  },
+  {
+    "id": "3",
+    "type": "lesson",
+    "title": "Agile Development in Practice (Project-centered Course)",
+    "link": "https://www.coursera.org/learn/uva-darden-agile-development-capstone"
+  },
+  {
+    "id": "4",
+    "type": "lesson",
+    "title": "Project Management: Government Projects",
+    "link": "https://www.linkedin.com/learning/project-management-government-projects"
+  },
+  {
+    "id": "5",
+    "type": "lesson",
+    "title": "Digital Product Management: Modern Fundamentals",
+    "link": "https://www.coursera.org/learn/uva-darden-digital-product-management"
+  }
+]
